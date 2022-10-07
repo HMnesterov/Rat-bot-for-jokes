@@ -4,3 +4,4 @@ Moreover, you should install all packages from requirements.txt.
 In order to make an executable file, write the command "pyinstaller --onefile Bot.py -w"
 Good day!
 
+WARNING: the author is not responsible for your actions, the program is designed for convenient PC administration!
